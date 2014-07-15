@@ -3,4 +3,4 @@ pyt-admin
 
 Setup
 
-] npm install -g express-admin
+npm install -g express-admin
